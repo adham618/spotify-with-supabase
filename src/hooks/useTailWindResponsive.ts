@@ -5,8 +5,7 @@
  * @returns {boolean}
  * @example const isLarge = useTailWindResponsive('lg');
  * @example const match = useTailWindResponsive('sm', 'max');
- * @description
- * This hook is used to determine if the current screen size matches the query.
+ * @description This hook is used to determine if the current screen size matches the query.
  * @see https://tailwindcss.com/docs/breakpoints
  */
 

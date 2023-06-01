@@ -4,8 +4,8 @@ export const siteConfig = {
   short_name: "Spotify",
   description:
     "Spotify is a digital music, podcast, and video streaming service that gives you access to millions of songs and other content from artists all over the world.",
-  url: "https://airbnbclone-vert-eight.vercel.app",
-  ogImage: "https://airbnbclone-vert-eight.vercel.app/images/og.jpg",
+  url: "https://spotify-with-supabase.vercel.app/",
+  ogImage: "https://spotify-with-supabase.vercel.app/images/og.jpg",
   links: {
     twitter: "https://twitter.com/_adham_tarek_",
     github: "https://github.com/adham618",
